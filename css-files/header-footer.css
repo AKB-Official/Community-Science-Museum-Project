@@ -67,3 +67,14 @@ main.page-body {
   text-decoration: none;
   color: #000000;
 }
+
+/* END NAV BAR HEADER */
+
+/* FOOTER */
+.page-footer {
+  display: flex;
+}
+
+.footer-nav-one h1 {
+  color: #000000;
+}
