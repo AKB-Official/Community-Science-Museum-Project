@@ -83,6 +83,7 @@ main.page-body {
 .footer-nav-one a, .footer-nav-two a, .footer-nav-three a {
   text-decoration: none;
   color: #000000;
+  text-align: center;
 }
 
 .page-footer p {
@@ -95,6 +96,14 @@ main.page-body {
 
 .footer-nav-one {
   margin-left: 30px;
+}
+
+.footer-nav-one p {
+  margin-left: 20px;
+}
+
+.footer-nav-two p {
+  margin-left: 15px;
 }
 
 .footer-nav-two, .footer-nav-three, .opening-hours-footer {
