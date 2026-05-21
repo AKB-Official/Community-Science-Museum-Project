@@ -1,0 +1,120 @@
+/* STICKY HEADER + FOOTER*/
+html, body {
+    box-sizing: border-box;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+body {
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+header.page-header, footer.page-footer {
+    flex-grow: 0;
+    flex-shrink: 0;
+    color: #fafafa;
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  
+main.page-body {
+    flex-grow: 1;
+    padding: 0 10px;
+    background-color: #c7caff;
+    color: black;
+  }
+
+  .page-header {
+    display: flex;
+  }
+
+/* END STICKY HEADER + FOOTER*/
+
+/* NAME OF THE MUSEUM HEADER */
+.left-side-header {
+  color: #000000;
+}
+
+.left-side-header h1 {
+  font-size: 40px;
+}
+
+/* END NAME OF THE MUSEUM HEADER */
+
+/* NAV BAR HEADER */
+.menu-header {
+  margin-left: 500px;
+  margin-top: 25px;
+}
+
+.button-header {
+  width: 150px;
+  height: 50px;
+  background-color: #c7caff;
+  border-radius: 20px;
+}
+
+.menu-header-text {
+  font-size: 20px;
+  position: center;
+  margin-top: 10px;
+}
+
+.menu-header-text a {
+  text-decoration: none;
+  color: #000000;
+}
+
+/* END NAV BAR HEADER */
+
+/* FOOTER */
+.page-footer {
+  display: flex;
+}
+
+.footer-nav-one, .footer-nav-two, .footer-nav-three {
+  width: 200px;
+  text-align: center;
+}
+
+.opening-hours-footer {
+  width: 400px;
+  text-align: center;
+}
+
+.footer-nav-one h1, .footer-nav-two h1, .footer-nav-three h1, .opening-hours-footer h1{
+  color: #000000;
+  font-size: 30px;
+}
+
+.footer-nav-one a, .footer-nav-two a, .footer-nav-three a {
+  text-decoration: none;
+  color: #000000;
+  text-align: center;
+}
+
+.page-footer p {
+  font-size: 20px;
+}
+
+.opening-hours-text-footer {
+  color: #000000;
+}
+
+.footer-nav-one {
+  margin-left: 50px;
+}
+
+.footer-nav-two, .footer-nav-three, .opening-hours-footer {
+  margin-left: 150px;
+}
+
+/* END FOOTER */
+
+.page-footer a:hover {
+  color: #d502fb;
+  font-size: 25px;
+}
