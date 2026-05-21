@@ -75,6 +75,16 @@ main.page-body {
   display: flex;
 }
 
+.footer-nav-one, .footer-nav-two, .footer-nav-three {
+  width: 200px;
+  text-align: center;
+}
+
+.opening-hours-footer {
+  width: 400px;
+  text-align: center;
+}
+
 .footer-nav-one h1, .footer-nav-two h1, .footer-nav-three h1, .opening-hours-footer h1{
   color: #000000;
   font-size: 30px;
@@ -95,17 +105,11 @@ main.page-body {
 }
 
 .footer-nav-one {
-  margin-left: 30px;
-}
-
-.footer-nav-one p {
-  margin-left: 20px;
-}
-
-.footer-nav-two p {
-  margin-left: 15px;
+  margin-left: 50px;
 }
 
 .footer-nav-two, .footer-nav-three, .opening-hours-footer {
-  margin-left: 260px;
+  margin-left: 150px;
 }
+
+/* END FOOTER */
