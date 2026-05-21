@@ -75,6 +75,10 @@ main.page-body {
   display: flex;
 }
 
-.footer-nav-one h1 {
+.footer-nav-one h1, .footer-nav-two h1, .footer-nav-three h1, .opening-hours-footer h1{
+  color: #000000;
+}
+
+.opening-hours-text-footer {
   color: #000000;
 }
