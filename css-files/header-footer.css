@@ -82,3 +82,7 @@ main.page-body {
 .opening-hours-text-footer {
   color: #000000;
 }
+
+.footer-button {
+  width: 100px;
+}
