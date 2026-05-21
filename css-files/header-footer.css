@@ -113,3 +113,8 @@ main.page-body {
 }
 
 /* END FOOTER */
+
+.page-footer a:hover {
+  color: red;
+  font-size: 25px;
+}
