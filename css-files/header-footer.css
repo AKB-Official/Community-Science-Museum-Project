@@ -79,10 +79,11 @@ main.page-body {
   color: #000000;
 }
 
-.opening-hours-text-footer {
+.footer-nav-one a, .footer-nav-two a, .footer-nav-three a {
+  text-decoration: none;
   color: #000000;
 }
 
-.footer-button {
-  width: 100px;
+.opening-hours-text-footer {
+  color: #000000;
 }
