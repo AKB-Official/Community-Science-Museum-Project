@@ -56,6 +56,7 @@ main.page-body {
   height: 50px;
   background-color: #c7caff;
   border-radius: 20px;
+  border: 2px solid #8187f7;
 }
 
 .menu-header-text {
@@ -115,7 +116,14 @@ main.page-body {
 
 /* END FOOTER */
 
+/* EFFECTS */
 .page-footer a:hover {
   color: #d502fb;
   font-size: 20px;
 }
+
+.page-footer a:visited{
+  color: #8187f7;
+}
+
+/* END EFFECTS */
