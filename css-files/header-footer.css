@@ -87,7 +87,7 @@ main.page-body {
 
 .footer-nav-one h1, .footer-nav-two h1, .footer-nav-three h1, .opening-hours-footer h1{
   color: #000000;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .footer-nav-one a, .footer-nav-two a, .footer-nav-three a {
@@ -97,7 +97,7 @@ main.page-body {
 }
 
 .page-footer p {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .opening-hours-text-footer {
@@ -116,5 +116,5 @@ main.page-body {
 
 .page-footer a:hover {
   color: #d502fb;
-  font-size: 25px;
+  font-size: 20px;
 }
