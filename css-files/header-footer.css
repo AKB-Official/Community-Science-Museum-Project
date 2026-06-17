@@ -118,12 +118,21 @@ main.page-body {
 
 /* EFFECTS */
 .page-footer a:hover {
-  color: #d502fb;
+  color: #640176;
   font-size: 20px;
 }
 
 .page-footer a:visited{
   color: #8187f7;
+}
+
+.button-header:hover{
+  background-color: #d502fb;
+  border: 2px solid #640176;
+}
+
+.button-header a:hover {
+  color: #ffffff;
 }
 
 /* END EFFECTS */
