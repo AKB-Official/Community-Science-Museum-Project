@@ -21,4 +21,26 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+  width: 1200px;
+}
+
+.hero-text-one h1 {
+  font-size: 55px;
+}
+
+.hero-text-one p {
+  font-size: 30px;
+}
+
+.first-hero-button {
+  width: 200px;
+  height: 50px;
+  background-color: #ffffff;
+  border-color: red;
+  border-radius: 20px;
+}
+
+.first-hero-button {
+  font-size: 20px;
+  color: #6e75f9;
 }
