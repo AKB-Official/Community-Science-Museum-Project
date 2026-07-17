@@ -52,3 +52,17 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.top-row, .bottom-row h1 {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.event-one {
+  width: 400px;
+  height: 400px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  margin-right: 20px;
+}
